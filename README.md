@@ -1,0 +1,1 @@
+﻿# WebFirya`n`nПубличная сборка учебного сайта WebFirya, опубликованная через GitHub Pages.`n`nФайлы здесь — готовая сборка сайта. Исходный проект собирается командой `npm run build -- --base=/webfirya-learning/`.
